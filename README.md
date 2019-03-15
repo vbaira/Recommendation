@@ -1,7 +1,8 @@
 # Recommendation  
 Implementation of Clustering and Cosine LSH Recommendation algorithms.  
-**Clustering Recommendation** takes into consideration user data points that fall into the same cluster as the user in order to calculate the recommended items.  
-**Cosine LSH Recommendation** takes into consideration the P nearest neighbors of the user (that are calculated using the Cosine LSH algorithm) in order to calculate the recommended items.
+
+- **Clustering Recommendation** takes into consideration user data points that fall into the same cluster as the user in order to calculate the recommended items.  
+- **Cosine LSH Recommendation** takes into consideration the P nearest neighbors of the user (that are calculated using the Cosine LSH algorithm) in order to calculate the recommended items.
 
 
 ## Compilation
