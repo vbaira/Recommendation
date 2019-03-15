@@ -1,6 +1,6 @@
-# Recommendation
-Implementation of Clustering and Cosine LSH Recommendation algorithms.
-
+# Recommendation  
+Implementation of Clustering and Cosine LSH Recommendation algorithms.  
+- 
 
 ## Compilation
 ~~~
